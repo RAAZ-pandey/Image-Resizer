@@ -1,5 +1,5 @@
 # Image-Resizer
-<[](output.png)
+![](output.png)
 
 Explanation:
 
